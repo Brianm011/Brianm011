@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Brian Muriuki</h1>
 <h3 align="center">I am a Software Engineering learner at ALX from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-girl-animation-fe7t4gejurmtof8v.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e476q014sy8lpbvadlz0wgyr0y2msfnte7uhw3tcpxp&rid=giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianm011&label=Profile%20views&color=0e75b6&style=flat" alt="brianm011" /> </p>
 
