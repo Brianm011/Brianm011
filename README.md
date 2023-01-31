@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Brian Muriuki</h1>
 <h3 align="center">I am a Software Engineering learner at ALX from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e476q014sy8lpbvadlz0wgyr0y2msfnte7uhw3tcpxp&rid=giphy.gif">
