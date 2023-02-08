@@ -14,8 +14,6 @@
 
 - 💬 Ask me about Git, Github, HTML, CSS, C, Emacs, VI and Linux
 
-- 📫 How to reach me **briankarimi11@gmail.com**
-
 - ⚡ Fun fact I love codes so much that if you talk to me about code; you win my heart.
 
 <h3 align="left">Connect with me:</h3>
